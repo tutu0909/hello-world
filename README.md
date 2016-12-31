@@ -1,3 +1,2 @@
 # hello-world
-PHP
-Hi humans!
+PHP你好
